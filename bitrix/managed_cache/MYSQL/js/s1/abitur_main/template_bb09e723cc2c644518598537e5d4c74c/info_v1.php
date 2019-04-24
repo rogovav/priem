@@ -1,0 +1,1 @@
+<? $filesInfo = array("/local/templates/.default/js/jquery-3.4.0.min.js" => "155608957788150","/local/templates/.default/js/popper.min.js" => "155608957721161","/local/templates/.default/js/bootstrap.min.js" => "155608957758072",); ?>

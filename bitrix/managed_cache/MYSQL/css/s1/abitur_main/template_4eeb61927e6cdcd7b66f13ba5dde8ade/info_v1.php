@@ -1,0 +1,1 @@
+<? $filesInfo = array("/local/templates/.default/css/bootstrap.min.css" => "1556089577155758","/local/templates/.default/css/style.css" => "15560895771897",); ?>
